@@ -16,13 +16,13 @@ That both signatory nations shall freely share information relating to the devel
 That both signatory nations shall refrain from any aggressive, belligerent, hostile, deceitful or malicious act or policy, either overtly or covertly, directed against either the other or any allies of the other, and shall afford diplomatic immunity to the visiting ambassadors and diplomats of the other.
 
 ### Article IV.
-That each of the signatory nations is pledged to the other to provide information of a hostile, deceitful or malicious nature or consequence directed at the other by any third party nation, person, or organisation.
+That each of the signatory nations is pledged to the other to provide information of a hostile, deceitful or malicious nature or consequence directed at the other by any third party nation, person, or organisation, or regarding acts and/or events that may or could result in the loss of human lives.
 
 ### Article V.
 That the signatory nations shall respect the diplomatic position and policies of the other, as regards to the recognition of, and relationship with, other nations.
 
 ### Article VI.
-That each signatory nation shall respect the military and political endeavours of the other, insofar as such does not infringe upon their own military and political interests.
+That each signatory nation shall respect the military and political endeavours of the other, insofar as such does not infringe upon their own military or political interests and/or sovereignty.
 
 ### Article VII.
 That no formal bond of military support shall exist between the signatory nations hereto; however, in the event of international crisis, which may be declared by either signatory, both parties shall steadfastly support the other in any and all efforts to remain neutral.
@@ -31,10 +31,14 @@ That no formal bond of military support shall exist between the signatory nation
 That the currencies and postage of each nation shall be recognised and accepted as valued according to international exchange rates.
 
 ### Article IX.
-That the signatory nations, both officially Christian, shall support each other in any efforts to defend the faith from doctrinal attacks and to promote its education. The Empire of Austenasia is, in accordance with its Constitution and laws, recognised to be a continuation of the Christian Roman Empire, and its Monarch a legitimate Emperor of the Romans.
+That the signatory nations, both officially Christian, shall support each other in any efforts to defend the faith from doctrinal attacks and to promote its education.
 
 ### Article X.
-That the signatory nations hereto are in agreement that this Treaty forms the foundation of their relationship with one another and may be amended, revised, superseded, enlarged and/or expanded upon the concurrence of both.
+
+That the Principality of St. George shall recognize that the Empire of Austenasia is, in accordance with its Constitution and laws, recognized to be a continuation of the Christian Roman Empire, and its Monarch a legitimate Emperor of the Romans. And that the Empire of Austenasia shall recognize that the Principality of St. George is, in accordance with its Constitution and laws, a reformed democracy, with the Prince as its immutable and legitimate head of state.
+
+### Article XI.
+That the signatory nations hereto are in agreement that this Treaty forms the foundation of their relationship with one another and may be amended, revised, superseded, enlarged and/or expanded upon the concurrence of both. 
 
 **In witness thereof** the following have hereunto set their respective hands, on this the twenty ninth day of April, Bright Monday, in the year of the consulship of Domina Erena Ludovica Ducissa Bernardstoniae and Dominus Iohannes Gordonus Vicecomes Thetfordiae, during the imperium of Akihito, Jonathan I, Taeglan I Nihilus and Quentin I:
 
